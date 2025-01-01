@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Kotlin related to the `removeIf` function when used with maps. The `removeIf` function behaves unexpectedly when used on a map, failing to remove elements correctly compared to its functionality with lists. The bug is illustrated with code examples, highlighting the issue and providing a solution.
